@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![alt text](image.jpg)
+![alt text](1_BgmFmkor8FNiijeEGcgJzg.jpg)
 
 <!--
 **abcool20999/abcool20999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
